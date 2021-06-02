@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Mohammed Ashad
-# # Decibels
+
 # importing required libraries
 
 # In[26]:
